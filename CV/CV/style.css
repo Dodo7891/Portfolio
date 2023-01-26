@@ -1,0 +1,50 @@
+@font-face
+{
+	font-family: 'a Anti Corona';
+	src: url(aAntiCorona.ttf)format('truetype');
+}
+
+h1
+{
+	font-family: 'a Anti Corona';
+	font-size : 4em;
+	text-shadow: 4px 4px 8px black;
+
+}
+
+p
+{
+	color: red;
+}
+
+#titre
+{
+	color: white;
+	text-align: center;
+	display: flex;
+	background-image: url(Nuage.jpg);
+}
+
+h3
+{
+	color: darkred;
+}
+
+body
+{
+	background: #383838;
+	color: white;
+}
+img
+{
+	width:10%;
+}
+div
+{
+	text-align: center;
+	margin-left: 25%;
+}
+#information
+{
+	border: 4px solid white;
+}
